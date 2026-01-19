@@ -71,7 +71,7 @@
 11110   - 30
 11111   - 31
 
-## Números enteros (con signo): 
+## Números enteros (con signo):
 
 Vamos a coger un bit (el 1º) para indicar si el num es `positivo` o `negativo`
 

@@ -27,6 +27,13 @@ python3 --version
 sudo apt install python3
 ```
 
+## Links
+
+[W3 Schools](https://www.w3schools.com/python/)
+[cpp-data-types/](https://www.geeksforgeeks.org/cpp/cpp-data-types/)
+[coma flotante - IEEE754](https://numeral-systems.com/ieee-754-converter/)
+[herramienta coma flotante](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+
 ## Youtube Links
 
 [AI Was Supposed to Replace Developers... Until It Couldn't](https://www.youtube.com/watch?v=MjSUCg2NN4g&pp=0gcJCU0KAYcqIYzv)
