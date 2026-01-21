@@ -33,3 +33,17 @@ while posicion < max:
 print(">>", posicion, "<<")
 
 ## Cuenta atras de un cohete
+
+### Solución
+
+min = 1
+max = 10
+posicion = max
+
+print(posicion)
+while posicion >= min:
+    posicion = posicion - 1
+    print(posicion)
+print(">>", posicion, "<<")
+
+### Mejor alternativa:
