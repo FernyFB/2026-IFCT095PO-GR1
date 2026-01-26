@@ -35,15 +35,20 @@ sudo apt install python3
 - [cpp-data-types/](https://www.geeksforgeeks.org/cpp/cpp-data-types/)
 - [coma flotante - IEEE754](https://numeral-systems.com/ieee-754-converter/)
 - [herramienta coma flotante](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+- [Roadmap Python](https://roadmap.sh/python)
 
 ## Youtube Links
 
-[AI Was Supposed to Replace Developers... Until It Couldn't](https://www.youtube.com/watch?v=MjSUCg2NN4g&pp=0gcJCU0KAYcqIYzv)
+- [AI Was Supposed to Replace Developers... Until It Couldn't](https://www.youtube.com/watch?v=MjSUCg2NN4g&pp=0gcJCU0KAYcqIYzv)
+
+## Juego(s)
+
+[Human Resource Machine](https://www.gog.com/en/game/human_resource_machine)
 
 ## Git clients
 
 | Nombre             | Link de descarga                                                             |
-| ---                | ---                                                                          |
+| ------------------ | ---------------------------------------------------------------------------- |
 | **SourceTree**     | [sourcetreeapp.com](https://www.sourcetreeapp.com/)                          |
 | **GitKraken**      | [gitkraken.com](https://www.gitkraken.com/)                                  |
 | **GitHub Desktop** | [desktop.github.com](https://desktop.github.com/)                            |
@@ -53,4 +58,4 @@ sudo apt install python3
 | **GitExtensions**  | [gitextensions.github.io](https://gitextensions.github.io/)                  |
 | **Fork**           | [git-fork.com](https://git-fork.com/)                                        |
 
-*VS code incluye su propia herrmienta de GitHub*
+_VS code incluye su propia herrmienta de GitHub_
