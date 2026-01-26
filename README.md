@@ -43,7 +43,7 @@ sudo apt install python3
 
 ## Juego(s)
 
-[Human Resource Machine](https://www.gog.com/en/game/human_resource_machine)
+- [Human Resource Machine](https://www.gog.com/en/game/human_resource_machine)
 
 ## Git clients
 
