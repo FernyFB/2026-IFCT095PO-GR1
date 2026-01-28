@@ -1,32 +1,5 @@
 # 2026 - Curso de Python y Django
 
-## Entorno de trabajo
-
-- [Python](https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe)
-- [Editor de código](https://www.sublimetext.com/download_thanks?target=win-x64)
-- [Git](https://git-scm.com/install/)
-
-## Herramientas de instalación masiva
-
-### Windows
-
-- [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil)
-
-### MacOS:
-
-- [Homebrew](https://brew.sh/)
-
-### Ubuntu
-
-Aptitude
-
-```bash
-sudo apt upgrade
-sudo apt update
-python3 --version
-sudo apt install python3
-```
-
 ## Links
 
 - [W3 Schools](https://www.w3schools.com/python/)
@@ -60,4 +33,31 @@ sudo apt install python3
 | **GitExtensions**  | [gitextensions.github.io](https://gitextensions.github.io/)                  |
 | **Fork**           | [git-fork.com](https://git-fork.com/)                                        |
 
-_VS code incluye su propia herrmienta de GitHub_
+*VS code incluye su propia herrmienta de GitHub_*
+
+## Entorno de trabajo
+
+- [Python](https://www.python.org/ftp/python/3.14.2/python-3.14.2-amd64.exe)
+- [Editor de código](https://www.sublimetext.com/download_thanks?target=win-x64)
+- [Git](https://git-scm.com/install/)
+
+## Herramientas de instalación masiva
+
+### Windows
+
+- [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil)
+
+### MacOS:
+
+- [Homebrew](https://brew.sh/)
+
+### Ubuntu
+
+Aptitude
+
+```bash
+sudo apt upgrade
+sudo apt update
+python3 --version
+sudo apt install python3
+```
