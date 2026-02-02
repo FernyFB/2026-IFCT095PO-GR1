@@ -14,7 +14,6 @@
 - [Strings: ANSI color escape sequences](https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences)
 - [Python: exception hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
 
-
 ## Youtube Links
 
 - [AI Was Supposed to Replace Developers... Until It Couldn't](https://www.youtube.com/watch?v=MjSUCg2NN4g&pp=0gcJCU0KAYcqIYzv)
