@@ -13,6 +13,8 @@
 - [Strings: Box drawing characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
 - [Strings: ANSI color escape sequences](https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences)
 - [Python: exception hierarchy](https://docs.python.org/3/library/exceptions.html#exception-hierarchy)
+- [URI/URN](https://danielmiessler.com/blog/difference-between-uri-url)
+- [HTTP Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
 
 ## Youtube Links
 
@@ -44,13 +46,23 @@
 - [Editor de código](https://www.sublimetext.com/download_thanks?target=win-x64)
 - [Git](https://git-scm.com/install/)
 
+## Puertos más comunes
+
+| Servicio | puerto |
+| :------- | :----- |
+| SSH      | 22     |
+| Telnet   | 23     |
+| HTTP     | 80     |
+| HTTPS    | 443    |
+| MySQL    | 3306   |
+
 ## Herramientas de instalación masiva
 
 ### Windows
 
 - [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil)
 
-### MacOS:
+### MacOS
 
 - [Homebrew](https://brew.sh/)
 
